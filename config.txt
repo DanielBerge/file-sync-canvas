@@ -1,3 +1,0 @@
-#Access token:"4sBneJ6YpxhRoZI4OcLjJ0bFi3QCgBH3WsAm3uFvZSNX18gyj2QAiWLLDmsUMyvZ"
-#Course blacklist: "INF101,INF115,BAMN-DTEK,EXPHIL-MNSEM,MAT101,KLASSE-MN,Institutt for informatikk"
-#Domain: "https://mitt.uib.no/"
