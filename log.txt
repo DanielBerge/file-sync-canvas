@@ -1,4 +1,0 @@
-2018.23.07_21:42:40 https://mitt.uib.no/files/499142/download?download_frd=1&verifier=FO35G25VC7p9VqP7dIAupRUz0yB1ehJ76EiAvoU8
-2018.23.07_21:42:40 Downloading: syllabus.pdf
-2018.23.07_21:42:40 Done
-2018.23.07_21:42:40 Deleting: Emner\INF100\syllabus.pdf
