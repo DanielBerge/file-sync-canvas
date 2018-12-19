@@ -1,0 +1,3 @@
+#Access token:""
+#Course blacklist: ""
+#Domain: "https://mitt.uib.no/"
